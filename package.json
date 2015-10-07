@@ -1,0 +1,15 @@
+{
+  "name": "JagSatTwitter",
+  "version": "1.0.0",
+  "description": "A Project to Update Twitter With JagSat Position",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Joe Brumaghim, Kellen Moltenbrey",
+  "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "^1.5.1",
+    "node-twitter-api": "^1.6.0"
+  }
+}
